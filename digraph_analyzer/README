@@ -1,6 +1,3 @@
-Name: Bob Dong
-Hopkins ID: BC52DC
-
 Structure:
 	main file: digraph_analyzer.cpp
 	helper functions: digraph_functions.cpp
